@@ -1,2 +1,2 @@
 # Mondrian Project
-"Composition No III, with Red, Blue, Yellow and Black" Piet Mondrian painting using HTML and CSS
+Recreated the famous painting "Composition No III, with Red, Blue, Yellow and Black" by Piet Mondrian using HTML and CSS
